@@ -3,7 +3,6 @@
 * intervention nodes` textures from [soothing32](https://content.minetest.net/packages/Zughy/soothing32) by Zughy, CC-BY-SA-4.0.
 * intervention_snowflake.png from [arena_lib](https://content.minetest.net/packages/Zughy/arena_lib/) by Zughy, GPL-3.0-only.
 * FullMoon*.jpn from [skybox](https://content.minetest.net/packages/sofar/skybox/) by sofar, GPL-2.0-only.
-* background.png, icon.png made by [Freepik](https://www.freepik.com), modified by mirq.
 * dialog from [dialog]
 * multidecor from [multidecor]
 
